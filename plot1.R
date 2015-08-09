@@ -1,6 +1,6 @@
-# reading only relevant data
+# reading only relevant data by skipping non relevant lines
 
-# line numbers from file
+# line numbers from input file
 firstLineWith20070201 <- 66638
 firstLineWith20070203 <- 69518
 
